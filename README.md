@@ -4,7 +4,7 @@
   <img src="Leafy/public/LeafyIntro.gif" alt="Preview Leafy Website GIF" width="1200px" style="cursor: pointer;" />
 </a>
 
-Click on the image above to visit the project.
+Click on the gif above to visit the project.
 
 ## Website Overview:
 
