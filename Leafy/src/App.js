@@ -8,8 +8,8 @@ import SigninPage from "./pages/signin"; // Import your SignIn component
 function App() {
   return (
     <div>
-      <Router>
-        <Routes>
+      <Router basename="/CAT201_Assignment_2"> {/* Add the basename here */}
+      <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/signin" element={<SigninPage />} />
         </Routes>
