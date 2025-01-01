@@ -2,8 +2,8 @@
 
 <img src="Leafy/public/LeafyIntro.gif" alt="Preview Leafy Website GIF" width="1200px" />
 
-<p>Click this link to demo the project yourself: 
-  <a href="https://lithia22.github.io/CAT201_Assignment_2/" target="_blank"># Leafy - Company Website</a>
+<p>Click this link to demo the project yourself  
+  <a href="https://lithia22.github.io/CAT201_Assignment_2/" target="_blank">Leafy - Company Website</a>
 </p>
 
 ## Website Overview:
